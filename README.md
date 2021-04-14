@@ -6,10 +6,10 @@ Python 3
 
 And if you don't have it you have to install colorama, hashlib and cowsay. Type in your terminal:
 
-.pip install hashlib
+pip install hashlib
 
-.pip install colorama
+pip install colorama
 
-.pip install cowsay
+pip install cowsay
 
 Run: python3 Meduza_Hash_Craking.py
