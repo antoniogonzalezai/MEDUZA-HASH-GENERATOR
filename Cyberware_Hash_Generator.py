@@ -24,13 +24,13 @@ while True:
 	time.sleep(1)
 
 
-	print(Fore.RED +"     ..:::CYBERWARE SECURTY:::..     ")
-	print("      [*]  Cyber-Hash Generator  [*]")
+	print(Fore.RED +"     ..:::MEDUZA HASH:::..     ")
+	print("      [*]  Hash Generator  [*]")
 	print(Style.RESET_ALL)
 	print()
-	print(Fore.YELLOW + "github.com/cyberware-security | Instagram @antonio_gonzalez_cr")
+	print(Fore.YELLOW + "github.com/antoniogonzalezai | Instagram @antonio_gonzalez_cr")
 	print()
-	print("                                      Coded by Antonio Gonzalez\nV 0.2")
+	print("                                      Coded by Antonio Gonzalez\nV 0.3")
 	print(Style.RESET_ALL)
 
 	print()
