@@ -12,4 +12,4 @@ pip install colorama
 
 pip install cowsay
 
-Run: python3 Meduza_Hash_Craking.py
+Run: python3 Meduza_Hash_Generator.py
